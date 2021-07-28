@@ -9,7 +9,7 @@ This site showcases some of the major projects I've completed as a master's stud
 * Second point
 
 ## Project 2
-[View the report](https://dmoscoe.github.io/cars/speed-and-distance.html)  
+[View the report](https://colab.research.google.com/drive/1VdKfilRV8FdxvJRCKOw4DQgYZEo91yLT?usp=sharing)  
 [View the repo](https://github.com/dmoscoe/cars)  
 * First point
 * Second point
