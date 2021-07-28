@@ -10,9 +10,11 @@ This site showcases some of the major projects I've completed as a master's stud
 
 ## Project 2
 [View the PowerPoint](/churn/churn.pdf)  
-[View the knitted R markdown](https://rpubs.com/dmoscoe/768184)
+[View the knitted R markdown](https://rpubs.com/dmoscoe/768184)  
 [View the repo](https://github.com/dmoscoe/dmoscoe.github.io/tree/main/churn)  
-* First point
-* Second point
+* Used logistic regression and random forest models to predict whether customers will terminate their contracts;  
+* Performed feature engineering to generate a measure of competition among cell phone carriers within each state;  
+* Performed hypothesis tests to gain further insights.  
+* Data/description at [Kaggle](https://www.kaggle.com/c/customer-churn-prediction-2020/overview).
 
 ## [Resume](resume.md)
