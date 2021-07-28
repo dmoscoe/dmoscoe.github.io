@@ -1,5 +1,4 @@
-# Resume
-[PDF](resume.pdf)
+# Resume [(PDF)](resume.pdf)
 ## Experience
 
 ### Job 1
