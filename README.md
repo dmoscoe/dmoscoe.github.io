@@ -1,3 +1,3 @@
-# dmoscoe.github.io
-Data Science portfolio
+# Data Science Portfolio
+Daniel Moscoe
 Welcome! Does this appear on the webpage?
