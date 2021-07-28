@@ -10,7 +10,7 @@ This site showcases some of the major projects I've completed as a master's stud
 
 ## Project 2
 [View the report](/churn/churn.pdf)  
-[View the repo](/churn)  
+[View the repo](https://github.com/dmoscoe/dmoscoe.github.io/tree/main/churn)  
 * First point
 * Second point
 
