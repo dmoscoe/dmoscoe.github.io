@@ -9,8 +9,8 @@ This site showcases some of the major projects I've completed as a master's stud
 * Second point
 
 ## Project 2
-[View the report](https://colab.research.google.com/drive/1J1Bc2NUEzNCdJPIEXXLr3qnXu0hDINyR?usp=sharing)  
-[View the repo](https://github.com/dmoscoe/cars)  
+[View the report](/churn/churn.pdf)  
+[View the repo](/churn)  
 * First point
 * Second point
 
