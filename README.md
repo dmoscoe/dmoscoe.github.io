@@ -13,3 +13,5 @@ This site showcases some of the major projects I've completed as a master's stud
 [View the repo](https://github.com/dmoscoe/cars)  
 * First point
 * Second point
+
+## [Resume](resume.md)
