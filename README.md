@@ -1,3 +1,5 @@
+# Welcome!
+
 This site showcases some of the major projects I've completed as a master's student at the [City University of New York](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).
 
 ## Project 1
