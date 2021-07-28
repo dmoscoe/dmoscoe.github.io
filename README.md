@@ -9,7 +9,8 @@ This site showcases some of the major projects I've completed as a master's stud
 * Second point
 
 ## Project 2
-[View the report](/churn/churn.pdf)  
+[View the PowerPoint](/churn/churn.pdf)  
+[View the knitted R markdown](https://rpubs.com/dmoscoe/768184)
 [View the repo](https://github.com/dmoscoe/dmoscoe.github.io/tree/main/churn)  
 * First point
 * Second point
