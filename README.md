@@ -2,12 +2,6 @@
 
 This site showcases some of the major projects I've completed as a master's student at the [City University of New York](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).
 
-## To do
-* Replace dmoscoe.github.io at top of page;  
-* Add images to each project;  
-* Add remaining projects;  
-* Replace old resume;
-
 ## Airport Runway Queue Simulation
 [View the PowerPoint](/rway_queue/rway_queue.pdf)  
 [View the Python notebook](https://colab.research.google.com/drive/1J1Bc2NUEzNCdJPIEXXLr3qnXu0hDINyR?usp=sharing)  
