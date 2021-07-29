@@ -10,7 +10,7 @@ This site showcases some of the major projects I've completed as a master's stud
 
 ## Telecom Churn Analysis
 [View the PowerPoint](/churn/churn.pdf)  
-[View the knitted R markdown](https://rpubs.com/dmoscoe/768184)  
+[View on RPubs](https://rpubs.com/dmoscoe/768184)  
 [View the repo](https://github.com/dmoscoe/dmoscoe.github.io/tree/main/churn)  
 * Used logistic regression and random forest models to predict whether customers will terminate their contracts;  
 * Performed feature engineering to generate a measure of competition among cell phone carriers within each state;  
@@ -19,10 +19,17 @@ This site showcases some of the major projects I've completed as a master's stud
 
 ## What do DS Employers Value?
 [View the presentation](https://docs.google.com/presentation/d/1QfWp9QIb1Mz9CEossPfFmhqX5NhzRhZTZERtq0bk6No/edit?usp=sharing)  
-[View the knitted R markdown](https://rpubs.com/zachsfr/747776)  
+[View on RPubs](https://rpubs.com/zachsfr/747776)  
 * Worked with classmates to determine the most sought-after data science skills;  
 * Conducted text mining on a corpus of job listings scraped from the web;  
 * Produced visualizations to illustrate key findings.
 
+## An Intro to Data Visualization for High School Students
+[View the repo](https://github.com/dmoscoe/HCIS)  
+* Students work in Python to construct histograms and analyze descriptive statistics.
+
+## House Prices
+[View on RPubs](https://rpubs.com/dmoscoe/794616)
+* Built a linear model to predict house prices as part of a Kaggle competition.  
 
 ## [Resume](resume.md)
