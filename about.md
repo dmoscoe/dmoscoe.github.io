@@ -6,4 +6,6 @@ Since 2016 I also served as chair of math department, helping to lead a team of 
 
 For me, the transition into data science is an opportunity to expand my passion for reason and evidence by developing new technical skills and working with new stakeholders. The work in this portfolio shows how I use my primary tools of R, Python, and a deep understanding of statistics to build from raw data to a decision or insight. Communicating with precision and clarity is a guiding principle in all of my work.
 
-When I'm away from my desk, you can find me hiking, at a book club, or exploring with my dog, Theo.
+When I'm away from my desk, you can find me hiking, at a book club, or exploring with my dog, Theo.  
+
+[Back to portfolio](README.md)
