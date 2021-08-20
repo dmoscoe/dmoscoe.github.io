@@ -1,6 +1,10 @@
 # Welcome!
 
-This site showcases some of the major projects I've completed as a master's student at the [City University of New York](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).
+This site showcases some of the major projects I've completed as a master's student at the [City University of New York](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).  
+
+Click [here](about.md) to learn a bit more about me and my data science journey.  
+
+Thanks for visiting!  
 
 ## Airport Runway Queue Simulation
 [View the PowerPoint](/rway_queue/rway_queue.pdf)  
