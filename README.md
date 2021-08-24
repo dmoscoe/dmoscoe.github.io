@@ -4,6 +4,8 @@ This site showcases some of the major projects I've completed as a master's stud
 
 Click [here](about.md) to learn a bit more about me and my data science journey. You can also view my [resume](resume.md).  
 
+Email me at [dmoscoe@gmail.com](mailto:dmoscoe@gmail.com).  
+
 Thanks for visiting!  
 
 ## Airport Runway Queue Simulation
