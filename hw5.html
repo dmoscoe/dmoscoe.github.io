@@ -1,0 +1,88 @@
+<html>
+
+<!--
+    Daniel Moscoe
+	DATA 608 HW 5
+	10/29/2021
+-->
+
+<head><title>Beginner JS</title></head>
+
+<body>
+
+<h2>Getting started with JavaScript</h2>
+<h3>Daniel Moscoe</h3>
+
+<p>
+
+JavaScript is an essential tool for web development. It's useful in creating dynamic web pages like this one.
+
+<p>
+We can write a short script that will reverse a string given by the user:
+
+<p>
+
+<script type="text/javascript">
+
+function rev_string(x) {
+	let res = "";
+	for (let i = 0; i <= x.length; i++) {
+		res = res + x.charAt(x.length-i);
+	}
+	return res;
+}
+
+function calc(){
+    var t = document.getElementById("str");
+    t.innerHTML = rev_string(document.getElementById('input_str').value);
+}
+</script>
+<p>
+<form>
+    <input id="input_str" type="text" size="50">
+    <input type="button" value="Reverse" onClick="calc();">
+</form>
+</p>
+
+The reversed string is:
+
+<div id="str"></div>
+
+<p>
+
+We can also write JavaScript to generate an HTML table. <br>
+For example, given a number selected by the user, we can build a table displaying multiples of the number.
+
+<script type = "text/javascript">
+
+function multiples_table(x) {
+	let res = "<table>";
+	for (let r = 1; r <= 5; r++) {
+		res = res + "<tr>";
+		for (let c = 1; c <= 4; c++) {
+			res = res + "<td>" + (4 * (r - 1) + c) * x + "</td>";
+			}
+		res = res + "</tr>";
+	}
+	res = res + "</table>";	
+	return res;		
+}
+
+function calc2(){
+	var u = document.getElementById("num");
+	u.innerHTML = multiples_table(document.getElementById('tbl').value);
+}
+</script>
+<p>
+<form>
+	<input id="tbl" type = "number" size = "4">
+	<input type="button" value="Multiply" onClick = "calc2();">
+</form>
+</p>
+<script type = "text/javascript">
+document.write("The table of multiples is:");
+</script>
+<div id = "num"></div>
+
+</body>
+</html>
