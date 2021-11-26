@@ -2,9 +2,11 @@
 
 ## EDUCATION
 **City University of New York**, School of Professional Studies  
-Masters in Data Science (MSDS) (degree in progress)  
+Masters in Data Science (MSDS) (12/2021)  
 * GPA: 4.0 / 4.0.  
-* Coursework includes Machine Learning, Statistics, Python and R Programming, Simulation and Modeling Techniques, Predictive Analytics.  
+* Coursework includes Machine Learning, Statistics, Python and R Programming, Simulation and Modeling Techniques, Predictive Analytics, Data Visualization.  
+* Built strong relationships with colleagues to solve complex problems.  
+* Capstone project: Predicting academic outcomes for undergraduates using demographic and assessment data.  
 
 **City University of New York**, Hunter College  
 Advanced Certificate, Computer Science Education (5/2021)  
@@ -19,6 +21,11 @@ Bachelors in Agricultural Economics (BS) (1/2005)
 * GPA: 3.75 / 4.0.
 
 ## EXPERIENCE  
+**Diagnostic Assessment and Achievement of College Skills (DAACS)**
+Data Analyst (8/2021 to present)
+* Developed predictive models of undergraduate academic outcomes using R on Amazon Elastic Compute Cloud.  
+* Presented findings directly to stakeholders.  
+
 **Columbia Secondary School**, New York, NY  
 Math Teacher and Department Chair (9/2015 to 10/2020)  
 * Developed innovative curricular materials with a dual focus on mathematical rigor and effective communication.  
@@ -40,6 +47,7 @@ Math Teacher (8/2010 to 6/2011)
 * Subjects include AP Calculus, undergraduate statistics, and logic.  
 
 ## ADDITIONAL INFORMATION
-* New York State teacher certification for mathematics (grades 7-12) and computer science (grades K-12) (pending).
+* New York State teacher certification for mathematics (grades 7-12) and computer science (grades K-12).  
 * Partially proficient in Spanish.
-* Dual citizenship: USA and Canada.
+* Partially proficient in SQL.  
+* Dual citizenship: USA and Canada.  
