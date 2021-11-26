@@ -1,6 +1,6 @@
 # Welcome!
 
-This site showcases some of the major projects I've completed as a master's student at the [City University of New York](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).  
+This site showcases some of the major projects I've completed as a master's student at the [City University of New York](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607).  
 
 Click [here](about.md) to learn a bit more about me and my data science journey. You can also view my [resume](resume.md).  
 
