@@ -9,8 +9,8 @@ Email me at [dmoscoe@gmail.com](mailto:dmoscoe@gmail.com).
 Thanks for visiting!  
 
 ## Electricity Explorer
-[View the site](http://eia-explorer.herokuapp.com/)
-[View the repo](https://github.com/dmoscoe/DATA608)
+[View the site](http://eia-explorer.herokuapp.com/)  
+[View the repo](https://github.com/dmoscoe/DATA608)  
 * Built interactive visualizations to explore how electricity is consumed and produced within a state, and how a state's energy intensity varies with GDP;
 * Toolkit includes Python, Plotly, and Dash.
 
