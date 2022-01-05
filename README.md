@@ -42,3 +42,7 @@ Thanks for visiting!
 ## An Intro to Data Visualization for High School Students
 [View the repo](https://github.com/dmoscoe/HCIS)  
 * Students work in Python to construct histograms and analyze descriptive statistics  
+
+## ...And More
+[View the repo](https://github.com/dmoscoe/curated-SPS)  
+* Selected work completed during my MS Data Science program at CUNY
