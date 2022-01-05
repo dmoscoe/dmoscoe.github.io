@@ -17,6 +17,7 @@ Thanks for visiting!
 ## Electricity Explorer
 [View the site](http://eia-explorer.herokuapp.com/)  
 [View the repo](https://github.com/dmoscoe/DATA608)  
+[View a video walkthrough](https://youtu.be/z8fwVsByEuw)  
 * Deployed interactive visualizations to the web using Python, Pandas, Plotly, and Dash  
 * Site shows how a state's electricity generation portfolio varies with consumption, and how energy intensity varies across states
 
