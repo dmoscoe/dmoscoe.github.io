@@ -11,6 +11,7 @@ Thanks for visiting!
 ## Predicting Academic Outcomes with DAACS
 [Read the paper](/daacs/paper.pdf)  
 [View the summary slides](/daacs/slides.pdf)  
+[View the repo](https://github.com/dmoscoe/DAACS2)  
 * Built ensemble models combining linear, tree, and non-parametric components using R on Amazon Elastic Compute Cloud  
 * Models underlie an early alert system for academic risk, directing support to students before they fail a course
 
