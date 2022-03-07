@@ -1,7 +1,7 @@
 # Resume [(PDF)](resume.pdf)
 
 ## SUMMARY
-Experienced educator pivoting to a career in data science. Master's Degree in Data Science completed 12/2021. Specializing in predictive modeling, data visualization, and inferential statistics to power evidence-based business decision-making.  
+Experienced math educator pivoting to a career in data science. Master’s degree in Data Science completed 12/2021. Specializing in data visualization and analytics, predictive modeling, and inferential statistics to drive evidence-based decision-making.  
 
 ## EDUCATION
 **City University of New York**, School of Professional Studies  
