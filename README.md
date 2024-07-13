@@ -17,7 +17,7 @@ Thanks for visiting!
 * Implemented in R on Amazon Elastic Compute Cloud
 
 ## Electricity Explorer
-[View the site](http://eia-explorer.herokuapp.com/)  
+/[View the site](http://eia-explorer.herokuapp.com/)  
 [View the repo](https://github.com/dmoscoe/DATA608)  
 [View a video walkthrough](https://youtu.be/z8fwVsByEuw)  
 * Designed interactive visualizations on the web showing electricity generation dynamics across the US  
