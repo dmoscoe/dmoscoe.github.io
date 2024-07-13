@@ -2,7 +2,7 @@
 
 This site showcases some of the major projects I've completed as a [master's](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607) student and beyond.  
 
-Click [here](resume240706.pdf) to view my resume, or feel free to contact me at [dmoscoe@gmail.com](mailto:dmoscoe@gmail.com).  
+Click [here](resume240713.pdf) to view my resume, or feel free to contact me at [dmoscoe@gmail.com](mailto:dmoscoe@gmail.com).  
 
 Thank you for visiting!  
 
