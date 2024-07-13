@@ -2,7 +2,7 @@
 
 This site showcases some of the major projects I've completed as a [master's](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607) student and beyond.  
 
-Click [here](about.md) to learn a bit more about me and my data science journey. You can also view my [resume](resume.pdf).  
+Click [here](about.md) to learn a bit more about me and my data science journey. You can also view my [resume](resume240706.pdf).  
 
 Email me at [dmoscoe@gmail.com](mailto:dmoscoe@gmail.com).  
 
